@@ -23,4 +23,4 @@ Roboto, Lato, Montserat, Silkscreen
 * Rojo: `#B83620`
 
 > Logo
-![Nidea logo] (/Logo.png)
+![Nidea logo](/Logo.png)
