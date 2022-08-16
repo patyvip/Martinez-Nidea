@@ -22,9 +22,6 @@ Roboto, Lato, Montserat, Silkscreen
 * Negro: `#000000`
 * Rojo: `#B83620`
 
-El color de fondo debe ser `#ffffff` para el modo claro y `#0d1117` para el modo oscuro.
-
-
 > Logo
 
 ![Nidea logo](/Logo.png)
